@@ -8,6 +8,11 @@ In this network you can create and comments posts, as well as delete them. Those
   <img src="https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image1.png?raw=true" width="750" alt="githubNetwork">
 </p>
 
+### Connected with Github
+Those posts are connected with Github, that means the post is about a repo, that repo has watchers, stars, description, title and all the data about that repository.
+ 
+<img src="https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image2.png?raw=true" width="750" alt="githubNetwork">
+
 ## Project structure
 
 ### Server side (back-end)
@@ -63,5 +68,13 @@ In another terminal
 python manage.py runserver
 ```
 
+## Video demonstration
+You can see the demonstration of this project and my others projects to conclude that course in my youtube channel
+[Github Network - Demonstrate project](https://youtu.be/pqvBdUeI3dM)
+
 ## About CS50 Web
-CS50 Web dive more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience.
+CS50 Web dive more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience. Taught by Brian Yu, a Senior Preceptor at Harvard Division of Continuing Education, you can learn tools, languages, skills and principles to design and deploy applications on the internet.
+
+[CS50 Web](https://cs50.harvard.edu/web/2020/)
+
+[LinkedIn Felipe Nieto](https://www.linkedin.com/in/felipe-antonio-nieto-curcio-9b865116a/)
