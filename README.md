@@ -4,7 +4,7 @@
 
 In this network you can create and comments posts, as well as delete them. Those posts are based in your repo in github or repo of someone else which you would like to share with people registered.
 
-![GithubNetwork](https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/image1.png?raw=true)
+![GithubNetwork](https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image1.png?raw=true)
 
 ## Project structure
 
