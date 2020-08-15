@@ -41,3 +41,26 @@ The application is mobile Responsive.
 
 
 <img src="https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image3mobile.png?raw=true" height="500"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image4.png?raw=true" height="500">
+
+## Executing this project
+First install all server dependencies like, Django, django-cors-headers, requests and djangorestframework.
+* Python package manager
+```sh
+pip install -r requirements.txt
+```
+Change to client directory and install client dependencias like react, axios, react-router-dom, react-markdown
+* Node package manager
+```sh
+cd client
+npm install
+```
+Then, start client and server
+```sh
+npm start
+
+cd ..
+
+python manage.py runserver
+```
+## About CS50 Web
+CS50 Web dive more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience.
