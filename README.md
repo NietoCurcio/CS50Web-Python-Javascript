@@ -54,13 +54,14 @@ Change to client directory and install client dependencias like react, axios, re
 cd client
 npm install
 ```
-Then, start client and server
+Then, start the client and server
 ```sh
 npm start
-
-cd ..
-
+```
+In another terminal
+```sh
 python manage.py runserver
 ```
+
 ## About CS50 Web
 CS50 Web dive more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience.
