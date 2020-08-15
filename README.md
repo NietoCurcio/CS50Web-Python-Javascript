@@ -77,5 +77,5 @@ CS50 Web dive more deeply into the design and implementation of web apps with Py
 
 [CS50 Web](https://cs50.harvard.edu/web/2020/)
 
-* Linkedin <br>
+- Linkedin <br>
 [LinkedIn Felipe Nieto](https://www.linkedin.com/in/felipe-antonio-nieto-curcio-9b865116a/)
