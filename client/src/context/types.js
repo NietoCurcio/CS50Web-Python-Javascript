@@ -1,0 +1,17 @@
+export const LOGIN = 'LOGIN';
+export const REGISTER = 'REGISTER';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const AUTHENTICATE = 'AUTHENTICATE';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT = 'LOGOUT';
+export const CREATE = 'CREATE';
+export const COMMENT_ADD = 'COMMENT_ADD';
+export const COMMENT_DELETE = 'COMMENT_DELETE';
+export const DELETE_POST = 'DELETE_POST';
+export const DELETE_ERROR = 'DELETE_ERROR';
+export const LOADING = 'LOADING';
+export const GET_CURRENT_REPO = 'GET_CURRENT_REPO';
+export const CREATE_FAIL = 'CREATE_FAIL';
+export const FETCH_REPOS = 'FETCH_REPOS';
+export const FETCH_REPOS_FAIL = 'FETCH_REPOS_FAIL';
+export const REMOVE_ERROR = 'REMOVE_ERROR';
