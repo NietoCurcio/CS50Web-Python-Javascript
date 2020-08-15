@@ -5,7 +5,7 @@
 In this network you can create and comments posts, as well as delete them. Those posts are based in your repo in github or repo of someone else which you would like to share with people registered.
 
 <p align="center">
-  <img src="https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image1.png?raw=true" width="650" alt="githubNetwork">
+  <img src="https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image1.png?raw=true" width="750" alt="githubNetwork">
 </p>
 
 ## Project structure
@@ -40,4 +40,4 @@ Besides client side make requests to the Django server, based in that data that 
 The application is mobile Responsive.
 
 
-<img src="https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image3mobile.png?raw=true"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image4.png?raw=true">
+<img src="https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image3mobile.png?raw=true" height="500"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image4.png?raw=true" height="500">
