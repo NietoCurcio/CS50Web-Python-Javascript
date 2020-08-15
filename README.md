@@ -36,3 +36,5 @@ Besides client side make requests to the Django server, based in that data that 
 [Github API - Authentication](https://developer.github.com/v3/#authentication)
 
 The application is mobile Responsive.
+
+| <img src="https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image3.png?raw=true" width="400"> | <img src="https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image4.png?raw=true" width = "400">
