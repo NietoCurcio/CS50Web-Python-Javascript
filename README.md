@@ -37,4 +37,4 @@ Besides client side make requests to the Django server, based in that data that 
 
 The application is mobile Responsive.
 
-| <img src="https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image3.png?raw=true" width="400"> | <img src="https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image4.png?raw=true" width = "400">
+| <img src="https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image3mobile.png?raw=true" height="200"> | <img src="https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image4.png?raw=true" height="200">
