@@ -2,7 +2,7 @@
 
 ## A social network to share repositories
 
-In this network you can create and comments posts, as well as delete them. Those posts are based in your repositorie in Github or repo of someone else which you would like to share with people registered.
+In this network you can create and comments posts, as well as delete them. Those posts are based in your repository in Github or repo of someone else which you would like to share with people registered.
 
 <p align="center">
   <img src="https://github.com/NietoCurcio/CS50Web-Python-Javascript/blob/master/readme/image1.png?raw=true" width="750" alt="githubNetwork">
