@@ -21,7 +21,7 @@ My Django project have one app called githubNetwork, in that app are all django 
 
 ### Client side (front-end)
 
-There is a folder called client, in that directory there is a React app, inside src has components, config files (get csrf cookie, as Django uses, and secret token), also has Context (app state) files and css files
+There is a folder called client, in that directory there is a React app, inside src has components, config files (get csrf cookie, as Django uses, and secret token), also has Context files (where we have createContext, actions creators (to describe what happened), state (giving us a container component, to wrap the application in that state) and reducers (to parse how to actually change the state)) and css files.
 
 Packages and dependencies in client side:
 
