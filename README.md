@@ -69,7 +69,7 @@ python manage.py runserver
 ```
 
 ## Video demonstration
-You can see the demonstration of this project and also my other projects to conclude CS50 Web course in my youtube channel.
+You can see the demonstration of this project and also my others to conclude CS50 Web course in my youtube channel.
 [Github Network - Demonstrate project](https://youtu.be/pqvBdUeI3dM)
 
 ## About CS50 Web
